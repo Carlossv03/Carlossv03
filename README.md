@@ -11,9 +11,9 @@ Si estás aquí leyendo esto, es porque, al igual que yo, te apasiona la program
 ---
 
 ## 📑 Contenido  
-- [👤 Información personal](#información-personal)  
-- [💻 Proyectos](#proyectos)  
-- [🎯 Intereses](#intereses)  
+- [👤 Información personal](#-información-personal)  
+- [💻 Proyectos](#-proyectos)  
+- [🎯 Intereses](#-intereses)  
 
 ---
 
@@ -35,7 +35,7 @@ Si estás aquí leyendo esto, es porque, al igual que yo, te apasiona la program
 He trabajado en varios proyectos durante mi carrera universitaria, tanto académicos como laborales. Aquí te dejo algunos destacados:  
 
 <details>
-<summary>👨‍🎓 **Proyectos académicos**</summary>
+<summary>👨‍🎓 Proyectos académicos</summary>
 
 - **Programación Orientada a Objetos:**  
   Desarrollo de aplicaciones en Java para gestionar inventarios.  
@@ -52,7 +52,7 @@ He trabajado en varios proyectos durante mi carrera universitaria, tanto académ
 </details>
 
 <details>
-<summary>💼 **Proyectos laborales**</summary>
+<summary>💼 Proyectos laborales</summary>
 
 - **Aplicaciones laborales varias**  
   Desarrollo de aplicación para pc en java para una clínica, bases de datos para manejar transacciones bancarias, juegos y ¡mucho más!  
