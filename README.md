@@ -14,7 +14,7 @@ Si estás aquí leyendo esto, es porque, al igual que yo, te apasiona la program
 - [👤 Información personal](#-información-personal)  
 - [💻 Proyectos](#-proyectos)
 - [📊 Estadísticas de GitHub](#-estadísticas-de-mi-github) 
-- [✏️ Habilidades](#-habilidades)  
+- [✏️ Habilidades](#%EF%B8%8F-habilidades)  
 - [📜 Certificados](#-certificados)  
 - [🎯 Intereses](#-intereses)  
 
