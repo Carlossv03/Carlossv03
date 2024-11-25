@@ -13,8 +13,8 @@ Si estás aquí leyendo esto, es porque, al igual que yo, te apasiona la program
 ## 📑 Contenido  
 - [👤 Información personal](#-información-personal)  
 - [💻 Proyectos](#-proyectos)
-- [📊 Estadísticas de GitHub](#-estadisticas-de-github) 
-- [🛠️ Habilidades](#-habilidades)  
+- [📊 Estadísticas de GitHub](#-estadísticas-de-mi-github) 
+- [✏️ Habilidades](#-habilidades)  
 - [📜 Certificados](#-certificados)  
 - [🎯 Intereses](#-intereses)  
 
@@ -77,7 +77,7 @@ He trabajado en varios proyectos durante mi carrera universitaria, tanto académ
 
 ---
 
-## 🛠️ Habilidades
+## ✏️ Habilidades
 
 ### Lenguajes de programación
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
