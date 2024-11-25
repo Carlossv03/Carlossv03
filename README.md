@@ -12,7 +12,10 @@ Si estás aquí leyendo esto, es porque, al igual que yo, te apasiona la program
 
 ## 📑 Contenido  
 - [👤 Información personal](#-información-personal)  
-- [💻 Proyectos](#-proyectos)  
+- [💻 Proyectos](#-proyectos)
+- [📊 Estadísticas de GitHub](#-estadisticas-de-github) 
+- [🛠️ Habilidades](#-habilidades)  
+- [📜 Certificados](#-certificados)  
 - [🎯 Intereses](#-intereses)  
 
 ---
