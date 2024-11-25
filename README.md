@@ -40,17 +40,17 @@ He trabajado en varios proyectos durante mi carrera universitaria, tanto académ
 <details>
 <summary>👨‍🎓 Proyectos académicos</summary>
 
-- **Programación Orientada a Objetos:**  
-  Desarrollo de aplicaciones en Java para gestionar inventarios.  
+- **<a href="https://github.com/mbravop/POO-P2-G06" target="_blank"> Programación Orientada a Objetos:** </a> 
+  Desarrollo de aplicaciones en Java para gestionar pacientes de una clínica.  
 
-- **Estructura de Datos:**  
-  Implementación de árboles binarios para análisis de datos.  
+- **<a href="https://github.com/danlevil/ED-G10-PROYECTO" target="_blank">Estructura de Datos:</a>**  
+  Implementación de árboles binarios para análisis de datos y el registro de personas.  
 
-- **Base de Datos:**  
+- **<a href="https://github.com/JorgeMawyin/ProyectoBD" target="_blank">Base de Datos:**</a> 
   Diseño e implementación de un sistema de registro para una biblioteca.  
 
-- **Matemáticas Discretas:**  
-  Desarrollo de un algoritmo de grafos para la optimización de rutas.
+- **<a href="https://github.com/danlevil/ED-G9-Proyecto" target="_blank">Estructura de Datos:**</a>
+  Aplicación de algoritmo minimax para jugar tic tac toe y siempre perder o empatar contra la máquina.
 
 </details>
 
