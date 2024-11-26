@@ -47,10 +47,10 @@ He trabajado en varios proyectos durante mi carrera universitaria, tanto académ
   Implementación de árboles binarios para análisis de datos y el registro de personas.  
 
 - **<a href="https://github.com/JorgeMawyin/ProyectoBD" target="_blank">Base de Datos:**</a> 
-  Diseño e implementación de un sistema de registro para una biblioteca.  
+  Diseño e implementación de un sistema de registro de transacciones bancarias implementando bases de datos con mysql y java.  
 
 - **<a href="https://github.com/danlevil/ED-G9-Proyecto" target="_blank">Estructura de Datos:**</a>
-  Aplicación de algoritmo minimax para jugar tic tac toe y siempre perder o empatar contra la máquina.
+  Aplicación de algoritmo minimax para jugar tic tac toe y siempre perder o empatar contra la máquina en java.
 
 </details>
 
