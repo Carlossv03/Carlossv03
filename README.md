@@ -40,29 +40,40 @@ He trabajado en varios proyectos durante mi carrera universitaria, tanto académ
 <details>
 <summary>👨‍🎓 Proyectos académicos</summary>
 
-- **<a href="https://github.com/mbravop/POO-P2-G06" target="_blank"> Programación Orientada a Objetos:** </a> 
-  Desarrollo de aplicaciones en Java para gestionar pacientes de una clínica.  
-
-- **<a href="https://github.com/danlevil/ED-G10-PROYECTO" target="_blank">Estructura de Datos:</a>**  
-  Implementación de árboles binarios para análisis de datos y el registro de personas.  
-
-- **<a href="https://github.com/JorgeMawyin/ProyectoBD" target="_blank">Base de Datos:**</a> 
-  Diseño e implementación de un sistema de registro de transacciones bancarias implementando bases de datos con mysql y java.  
-
-- **<a href="https://github.com/danlevil/ED-G9-Proyecto" target="_blank">Estructura de Datos:**</a>
-  Aplicación de algoritmo minimax para jugar tic tac toe y siempre perder o empatar contra la máquina en java.
+<ul>
+  <li>
+    <strong><a href="https://github.com/mbravop/POO-P2-G06" target="_blank">Programación Orientada a Objetos:</a></strong>
+    Desarrollo de aplicaciones en Java para gestionar pacientes de una clínica.
+  </li>
+  <li>
+    <strong><a href="https://github.com/danlevil/ED-G10-PROYECTO" target="_blank">Estructura de Datos:</a></strong>
+      Implementación de árboles binarios para análisis de datos y el registro de personas.
+  </li>
+  <li>
+    <strong><a href="https://github.com/JorgeMawyin/ProyectoBD" target="_blank">Base de Datos:</a></strong>
+      Diseño e implementación de un sistema de registro de transacciones bancarias implementando bases de datos con MySQL y Java.
+  </li>
+  <li>
+    <strong><a href="https://github.com/danlevil/ED-G9-Proyecto" target="_blank">Estructura de Datos:</a></strong>
+    Aplicación de algoritmo minimax para jugar Tic Tac Toe y siempre perder o empatar contra la máquina en Java.
+  </li>
+</ul>
 
 </details>
 
 <details>
 <summary>💼 Proyectos laborales</summary>
 
-- **Aplicaciones laborales varias**  
-  Desarrollo de aplicación para pc en java para una clínica, bases de datos para manejar transacciones bancarias, juegos y ¡mucho más!  
-
-- **Aplicación web y movil para la fundación ASPYEcuador**  
-  Desarrollo y mantenimiento de la aplicación web y movil para la fundación ASPYEcuador para la gestión de citas por parte de clientes y administrativos.  
-
+<ul>
+    <li>
+        <strong>Aplicaciones laborales varias:</strong>  
+        Desarrollo de aplicación para PC en Java para una clínica, bases de datos para manejar transacciones bancarias, juegos y ¡mucho más!
+    </li>
+    <li>
+        <strong>Aplicación web y móvil para la fundación ASPYEcuador:</strong>  
+        Desarrollo y mantenimiento de la aplicación web y móvil para la fundación ASPYEcuador, permitiendo la gestión de citas por parte de clientes y administrativos.
+    </li>
+  </ul>
 </details>
 
 ---
